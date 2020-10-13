@@ -1,0 +1,14 @@
+Ideensammlung Xliff Reverse Generator:
+
+Schritte:
+1. Über xlf iterieren (xml format)
+2. pro iteration schauen, ob target <> state="needs translation"
+3. falls target mit übersetzung existiert, korrekte datei in dir finden,
+4. falls datei existiert, korrektes feld finden
+5. falls feld existiert, zeile anlegen, die caption mit comment anlegt, target korrekt in entsprechender sprache einträgt (bsp rampa de-DE)
+
+Umsetzung in python:
+	module imports:
+	1. xml.etree.ElementTree (XML traverser)
+	2. os.path (Dateien)
+	3. pathlib (Dateien 2)
