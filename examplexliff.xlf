@@ -5025,6 +5025,18 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report CCO0 ABG Import - NamedType WindowLbl</note>
         </trans-unit>
+        <trans-unit id="Codeunit 905876842 - Method 1737272513" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TransferGLtoCA</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Corr. Trans. GL En. to CA - Method TransferGLtoCA</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 905876842 - Method 2900529433" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetGLEntries</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Corr. Trans. GL En. to CA - Method GetGLEntries</note>
+        </trans-unit>
         <trans-unit id="Codeunit 905876842 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
           <source>Income statement accounts that have cost centers or cost objects will be transferred to Cost Accounting.\All entries since the last transfer will be processed.\\The link between cost type and G/L account will be verified.\\Do you want to start the transfer?</source>
           <target state="needs-translation"/>
@@ -5067,11 +5079,161 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Corr. Trans. GL En. to CA - NamedType Text006</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2486023683 - Method 3789639128" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OnBeforeInsertCostJournalLine</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Cost Acc. Subscriber - Method OnBeforeInsertCostJournalLine</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2486023683 - Method 4171052366" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GenJnlPostLineOnAfterFinishPosting</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Cost Acc. Subscriber - Method GenJnlPostLineOnAfterFinishPosting</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2486023683 - Method 4234062117 - NamedType 877803360" size-unit="char" translate="yes" xml:space="preserve">
           <source>This function is not correct. Please run the other Report.</source>
           <target>Diese Standardfunktion ist fehlerhaft und wurde deaktiviert. Bitte die Korrekturversion in der Einrichtung aktivieren.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Cost Acc. Subscriber - Method OnBeforeInsertCostJournalLine - NamedType WrongFunctionErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 2057921841" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetTable36AsCreateDimTableIDs</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method SetTable36AsCreateDimTableIDs</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 3721037676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetTable5405AsCreateDimTableIDs</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method SetTable5405AsCreateDimTableIDs</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 1708564253" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetTable5406AsCreateDimTableIDs</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method SetTable5406AsCreateDimTableIDs</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 455989543" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetTable5407AsCreateDimTableIDs</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method SetTable5407AsCreateDimTableIDs</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 494480490" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreateDocumentDimVal</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method CreateDocumentDimVal</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 893964582" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AddDocumentValueAsShortcutDimCode2Default</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method AddDocumentValueAsShortcutDimCode2Default</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 1405072851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ExecuteCreateDimOnProdOrder</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method ExecuteCreateDimOnProdOrder</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 2127246539" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ExecuteCreateDimOnProdOrderLine</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method ExecuteCreateDimOnProdOrderLine</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 3381443974" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ExecuteCreateDimOnProdOrderComp</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method ExecuteCreateDimOnProdOrderComp</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 2108095686" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetDimValuesOnGetShipmentLines</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method SetDimValuesOnGetShipmentLines</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 4093503834" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SaleLineAssignDimensionFromSourceDoc</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method SaleLineAssignDimensionFromSourceDoc</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 319919808 - Method 3375808576" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreateShortcutDimension2OnCreateSalesOrder</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Management - Method CreateShortcutDimension2OnCreateSalesOrder</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1025192407 - Method 2215564084" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesHeaderOnAfterCreateDimTableIDs</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Subscriber - Method SalesHeaderOnAfterCreateDimTableIDs</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1025192407 - Method 1057384025" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ProductionOrderOnAfterCreateDimTableIDs</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Subscriber - Method ProductionOrderOnAfterCreateDimTableIDs</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1025192407 - Method 233135793" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ProdOrderLineOnAfterCreateDimTableIDs</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Subscriber - Method ProdOrderLineOnAfterCreateDimTableIDs</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1025192407 - Method 1768580082" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ProdOrderComponentOnAfterCreateDimTableIDs</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Subscriber - Method ProdOrderComponentOnAfterCreateDimTableIDs</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1025192407 - Method 3148602620" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DimensionManagementOnBeforeGetDefaultDimID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Subscriber - Method DimensionManagementOnBeforeGetDefaultDimID</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1025192407 - Method 1272451113" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OnCopyFromProdOrderLine</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Subscriber - Method OnCopyFromProdOrderLine</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1025192407 - Method 1946995338" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OnCopyFromProdOrderComp</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Dimension Subscriber - Method OnCopyFromProdOrderComp</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2922497864 - Method 3103322012" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ansi2UTF8</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 GLS Management - Method Ansi2UTF8</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2922497864 - Method 4143364184" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ascii2Ansi</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 GLS Management - Method Ascii2Ansi</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2922497864 - Method 912581493" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreateGLSFile</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 GLS Management - Method CreateGLSFile</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2922497864 - Method 4186940514" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WriteTag</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 GLS Management - Method WriteTag</note>
         </trans-unit>
         <trans-unit id="Codeunit 2922497864 - NamedType 927269177" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 Mails versendet.</source>
@@ -5097,11 +5259,137 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 GLS Management - NamedType WrongSignErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2495211282 - Method 191410407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ChangeBuyfromVendorToEnableICTransactionsForPayToVendor</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 IC Management - Method ChangeBuyfromVendorToEnableICTransactionsForPayToVendor</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2495211282 - Method 747771599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CopyOrigBuyFromVenderToInboxSalesHeader</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 IC Management - Method CopyOrigBuyFromVenderToInboxSalesHeader</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2495211282 - Method 3506822742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreatePurchaseDocumentAndPost</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 IC Management - Method CreatePurchaseDocumentAndPost</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2495211282 - Method 3851896325" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ResetBuyfromVendorToEnableICTransactionsForPayToVendor</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 IC Management - Method ResetBuyfromVendorToEnableICTransactionsForPayToVendor</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2495211282 - Method 2275826473" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateOutboxPurchaseLineWithAccountMatching</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 IC Management - Method UpdateOutboxPurchaseLineWithAccountMatching</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2495211282 - Method 425067731" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckICPostingSetup</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 IC Management - Method CheckICPostingSetup</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2495211282 - Method 2285165985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateICPartnerFieldsForPayToVendor</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 IC Management - Method UpdateICPartnerFieldsForPayToVendor</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2495211282 - Method 3987112363" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SendICDocumentOnPurchPostOnBeforeDeleteAfterPosting</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 IC Management - Method SendICDocumentOnPurchPostOnBeforeDeleteAfterPosting</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2909633010 - Method 3728258311" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateMissingLotSerialInfo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Item Tracking Management - Method UpdateMissingLotSerialInfo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2909633010 - Method 724626514" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DeleteLotSerialInfo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Item Tracking Management - Method DeleteLotSerialInfo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2909633010 - Method 3227980495" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreateMissingLotSerialInfoFromILE</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Item Tracking Management - Method CreateMissingLotSerialInfoFromILE</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2909633010 - Method 1897348379" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckQCStatusOnPosting</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Item Tracking Management - Method CheckQCStatusOnPosting</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2909633010 - Method 1871179987 - NamedType 1961270468" size-unit="char" translate="yes" xml:space="preserve">
           <source>You cannot post %1 %2 with %3 %4</source>
           <target state="translated">Sie können %1 %2 mit %3 %4 nicht buchen.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Item Tracking Management - Method CheckQCStatusOnPosting - NamedType NotPostErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3091722244 - Method 1699149880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetAttributeValue</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Label Functions - Method GetAttributeValue</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3142349108 - Method 3273448167" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckSamplePackageNos</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Master Data Management - Method CheckSamplePackageNos</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3142349108 - Method 2637439990" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ContactCheckIfConcernNoHasChanged</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Master Data Management - Method ContactCheckIfConcernNoHasChanged</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3142349108 - Method 3098233138" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ContactOnInsertSetConcernNo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Master Data Management - Method ContactOnInsertSetConcernNo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3142349108 - Method 2938647711" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CustomerSetConcernNo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Master Data Management - Method CustomerSetConcernNo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3142349108 - Method 1931146415" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateCustAndContact</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Master Data Management - Method UpdateCustAndContact</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3142349108 - Method 2785235772" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateDocumentsAndEntriesWithNewConcernNo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Master Data Management - Method UpdateDocumentsAndEntriesWithNewConcernNo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3142349108 - Method 1944902716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InsertCustomerFromTemplate</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Master Data Management - Method InsertCustomerFromTemplate</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3142349108 - Method 4019250003" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CopyValuesFromBaseItem2TradingUnitItem</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Master Data Management - Method CopyValuesFromBaseItem2TradingUnitItem</note>
         </trans-unit>
         <trans-unit id="Codeunit 3142349108 - Method 3931962844 - NamedType 3547720112" size-unit="char" translate="yes" xml:space="preserve">
           <source>Die Nummernserie der Mustersendung muß sich vom Angebot deutlich unterscheiden!</source>
@@ -5115,11 +5403,287 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Master Data Management - Method UpdateDocumentsAndEntriesWithNewConcernNo - NamedType AreaMsg</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3549136153 - Method 2937146570" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActualiseProdOrderLineWithReservInfoFromPlanning</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Production Management - Method ActualiseProdOrderLineWithReservInfoFromPlanning</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3549136153 - Method 1471834941" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActualiseProdOrderLineWithReservInfoFromSales</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Production Management - Method ActualiseProdOrderLineWithReservInfoFromSales</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3549136153 - Method 2122750646" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActualiseProdOrderLineFromTrackingInfo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Production Management - Method ActualiseProdOrderLineFromTrackingInfo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3549136153 - Method 4173161844" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SearchOrderTracking5406</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Production Management - Method SearchOrderTracking5406</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3549136153 - Method 2876160079" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SearchOrderTracking246</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Production Management - Method SearchOrderTracking246</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2732716983 - Method 3155931209" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ArchivePurchasePriceAndVendorItems</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Purch. Process Management - Method ArchivePurchasePriceAndVendorItems</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2732716983 - Method 3624239977" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetIntrastatDefaults</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Purch. Process Management - Method SetIntrastatDefaults</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2732716983 - Method 2111580242" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PurchLineLineDiscExistsForIC</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Purch. Process Management - Method PurchLineLineDiscExistsForIC</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2732716983 - Method 3050651203" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PurchLinePriceExistsForIC</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Purch. Process Management - Method PurchLinePriceExistsForIC</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2732716983 - Method 3159002828 - NamedType 1422885564" size-unit="char" translate="yes" xml:space="preserve">
           <source>No Intrastat Template found. Your should set it up and start your action again.</source>
           <target>Keine allgemeine Intrastatvorlage gefunden. Sie sollten eine einrichten und ihre Aktion erneut starten.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Purch. Process Management - Method SetIntrastatDefaults - NamedType NoTemplateExistsMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 2644749208" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AddExtendedTextToSalesLines</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method AddExtendedTextToSalesLines</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 1879937291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckMandateForSalesHeader</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method CheckMandateForSalesHeader</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3125732951" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckPriceAndDiscountsForBlanketOrderLines</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method CheckPriceAndDiscountsForBlanketOrderLines</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3550763779" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckSalesPersonOnSalesHeaderForSamplePackage</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method CheckSalesPersonOnSalesHeaderForSamplePackage</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3724724095" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ClearProspCustomerOnSalesHeader</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method ClearProspCustomerOnSalesHeader</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3192479993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckIfCustomerIsReleased</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method CheckIfCustomerIsReleased</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 194393474" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ClearSamplePackageOnCreateSalesOrderFromOtherDoc</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method ClearSamplePackageOnCreateSalesOrderFromOtherDoc</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 1522947133" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesHeaderGetNoSeriesForSamplePackage</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method SalesHeaderGetNoSeriesForSamplePackage</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 309396538" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesHeaderTestNoSeriesForSamplePackage</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method SalesHeaderTestNoSeriesForSamplePackage</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 2462396369" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetSalesHeaderNoAsGlobalDimension2InSalesHeader</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method SetSalesHeaderNoAsGlobalDimension2InSalesHeader</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 4030090503" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetProdOrderNoAsGlobalDimension2InSalesHeader</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method SetProdOrderNoAsGlobalDimension2InSalesHeader</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 108349862" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateGenJnlLineFromSalesHeader</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdateGenJnlLineFromSalesHeader</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 2429905298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateItemJnlLineFromSalesHeader</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdateItemJnlLineFromSalesHeader</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3770060230" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdatePackageWithPostedWhseShptInfo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdatePackageWithPostedWhseShptInfo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3083323773" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdatePackageWithPostedShptInfo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdatePackageWithPostedShptInfo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 1906754644" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateSalesHeaderWithCommissionRecipient</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdateSalesHeaderWithCommissionRecipient</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 1520697418" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateSalesHeaderWithConcernNo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdateSalesHeaderWithConcernNo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 882687136" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateSalesHeaderWithGLSInfo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdateSalesHeaderWithGLSInfo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 1444684568" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateSalesHeaderWithIntrastatDefaults</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdateSalesHeaderWithIntrastatDefaults</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3971694842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateSalesHeaderWithInvoiceToContactNo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdateSalesHeaderWithInvoiceToContactNo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 302616980" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateValueEntryWithCommissionRecipient</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdateValueEntryWithCommissionRecipient</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 598108456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdateValueEntryWithConcernNo</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method UpdateValueEntryWithConcernNo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 2923353924" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckPostingDateOnInventoryPostingToGL</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method CheckPostingDateOnInventoryPostingToGL</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 621215935" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CalcSalesInvoiceLines</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method CalcSalesInvoiceLines</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 4228055783" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LookUpSalesInvoiceLines</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method LookUpSalesInvoiceLines</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 4172384054" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CalcSalesQuoteLines</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method CalcSalesQuoteLines</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 544011983" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LookUpSalesQuoteLines</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method LookUpSalesQuoteLines</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 2157062557" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActivateExtendedTextForChargeItem</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method ActivateExtendedTextForChargeItem</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 224554035" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DeleteSalesLineServiceChargePerItemCharge</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method DeleteSalesLineServiceChargePerItemCharge</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 76120461" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckSalesSetupDiscCalcOnBeforeCalcSalesDiscount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method CheckSalesSetupDiscCalcOnBeforeCalcSalesDiscount</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 1704355896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesLineChangeGLAccountForChargeItem</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method SalesLineChangeGLAccountForChargeItem</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3664654855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ExtendedTextCheckforItemCharge</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method ExtendedTextCheckforItemCharge</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3413193254" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesLineCheckPostingGroup</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method SalesLineCheckPostingGroup</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3466917083" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckQtyPacked</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method CheckQtyPacked</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 596798206" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DeletePackageLinesOnDeleteSalesLine</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method DeletePackageLinesOnDeleteSalesLine</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3559525671" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DeletePackageLinesOnDeleteWhseShptLine</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method DeletePackageLinesOnDeleteWhseShptLine</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2846156753 - Method 3362893052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetShortcutDim2OnItemChargeAssgntSales</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method GetShortcutDim2OnItemChargeAssgntSales</note>
         </trans-unit>
         <trans-unit id="Codeunit 2846156753 - Method 3763446232 - NamedType 795600992" size-unit="char" translate="yes" xml:space="preserve">
           <source>No existing available Mandates.</source>
@@ -5157,6 +5721,30 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Management - Method CheckQtyPacked - NamedType NotAllPackedErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3795705642 - Method 1769797027" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OnPostInvtPostBufferOnBeforeFind</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Subscriber - Method OnPostInvtPostBufferOnBeforeFind</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3795705642 - Method 3621717042" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WhsePostShptOnBeforePostedWhseShptHeaderInsesrt</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales Process Subscriber - Method WhsePostShptOnBeforePostedWhseShptHeaderInsesrt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2091345144 - Method 1738844469" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetSalesOrderHeader</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales-Quote to BSOrder - Method GetSalesOrderHeader</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2091345144 - Method 107785774" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetHideValidationDialog</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales-Quote to BSOrder - Method SetHideValidationDialog</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2091345144 - NamedType 1745287229" size-unit="char" translate="yes" xml:space="preserve">
           <source>An open %1 is linked to this %2. The %1 has to be closed before the %2 can be converted to an %3. Do you want to close the %1 now and continue the conversion?</source>
           <target>An open %1 is linked to this %2. The %1 has to be closed before the %2 can be converted to an %3. Do you want to close the %1 now and continue the conversion?</target>
@@ -5168,6 +5756,24 @@
           <target>An open %1 is still linked to this %2. The conversion to an %3 was aborted.</target>
           <note from="Developer" annotates="general" priority="2">An open Opportunity is still linked to this Quote. The conversion to an Order was aborted.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Sales-Quote to BSOrder - NamedType Text001Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1235204478 - Method 3339217185" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetRunFromBatch</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Single Inst. Functions - Method SetRunFromBatch</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1235204478 - Method 1544185049" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetRunFromBatch</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Single Inst. Functions - Method GetRunFromBatch</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1235204478 - Method 133107197" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ResetVariables</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Single Inst. Functions - Method ResetVariables</note>
         </trans-unit>
         <trans-unit id="Codeunit 649311880 - NamedType 3900149378" size-unit="char" translate="yes" xml:space="preserve">
           <source>Do you want to convert the quote to an blanket order?</source>
@@ -5181,11 +5787,29 @@
           <note from="Developer" annotates="general" priority="2">%1 = No. of the new blanket order document.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 S.-Q. to B.S.Ord. (Y/N) - NamedType OpenNewInvoiceQst</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3413012103 - Method 3466917083" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CheckQtyPacked</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Whse Management - Method CheckQtyPacked</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3413012103 - Method 168977219" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetCustomsDocFieldsOnCreateWhseShptLine</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Whse Management - Method SetCustomsDocFieldsOnCreateWhseShptLine</note>
+        </trans-unit>
         <trans-unit id="Codeunit 3413012103 - Method 2633101726 - NamedType 1621917371" size-unit="char" translate="yes" xml:space="preserve">
           <source>Packed Quantity is %1, shipping Quantity is %2. You have to pack the correct quantity!</source>
           <target state="needs-adaptation">Gepackte Menge ist %1, die Warenausgangsmenge ist %2. Sie müssen die korrekte Menge verpacken!</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Whse Management - Method CheckQtyPacked - NamedType NotAllPackedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3696688 - Method 3357186594" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WhseCreateSourceDocumentOnBeforerCreateShptLineFromSalesLine</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CCO0 Whse Subscriber - Method WhseCreateSourceDocumentOnBeforerCreateShptLineFromSalesLine</note>
         </trans-unit>
         <trans-unit id="Page 1879231148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>ABG-Order</source>
@@ -7821,6 +8445,12 @@
           <note from="Developer" annotates="general" priority="2">de-DE=GLS Wiederholungsdruck</note>
           <note from="Xliff Generator" annotates="general" priority="3">Report CCO0 Reprint GLS Labels - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 2724979798 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Corr. Purch. Header Pay To Vendor</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CCO0 TEMP Corr. PurchHeader - Property Caption</note>
+        </trans-unit>
         <trans-unit id="XmlPort 1230070100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Import Commission No. to Value Entries</source>
           <target state="translated">Provisionsnummern in Wertposten importieren</target>
@@ -7998,14 +8628,12 @@
         <trans-unit id="PageExtension 29448289 - Change 1155300170 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1208868588">
           <source>This function is disabled, when Item/Account Allocation, which translates Items in G/L Accounts</source>
           <target state="needs-adaptation">Die Funktion ist deaktiviert aufgrund der Anpassung "Artikel Konto Zuweisung", die Artikel in Sachkonten übersetzt.</target>
-          <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
           <note from="Developer" annotates="general" priority="2">de-DE=Die Funktion ist deaktiviert aufgrund der Anpassung "Artikel Konto Zuweisung", die Artikel in Sachkonten übersetzt.</note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension CCO0 IC Partner Card - Change Outbound Sales Item No. Type - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="PageExtension 29448289 - Change 1303673208 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1208868588">
           <source>This function is disabled due to Item/Account Allocation, which translates Items in G/L Accounts</source>
           <target state="needs-adaptation">Die Funktion ist deaktiviert aufgrund der Anpassung "Artikel Konto Zuweisung", die Artikel in Sachkonten übersetzt.</target>
-          <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
           <note from="Developer" annotates="general" priority="2">de-DE=Die Funktion ist deaktiviert aufgrund der Anpassung "Artikel Konto Zuweisung", die Artikel in Sachkonten übersetzt.</note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension CCO0 IC Partner Card - Change Outbound Purch. Item No. Type - Property ToolTip</note>
         </trans-unit>
@@ -8698,6 +9326,18 @@
           <target>Anzahl terminierte FA</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension CCO0 Activities Cue - Field CCO0 Qty. Planned PO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4001340317 - Field 3618836307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1692605088">
+          <source>Description</source>
+          <target state="translated">Beschreibung</target>
+          <note from="Developer" annotates="general" priority="2">en-US=Description|de-DE=Beschreibung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CCO0 Bin Content - Field CCO0 Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4001340317 - Field 4157484565 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1692605088">
+          <source>Description 2</source>
+          <target state="translated">Beschreibung 2</target>
+          <note from="Developer" annotates="general" priority="2">en-US=Description 2|de-DE=Beschreibung 2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CCO0 Bin Content - Field CCO0 Description 2 - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 103780180 - Field 815748036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2378311977">
           <source>Inventory (Central Whse.)</source>
